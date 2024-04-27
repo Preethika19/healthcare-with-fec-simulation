@@ -1,0 +1,2 @@
+insert into student (student_id, first_name, last_name, dob) values(3, 'Preethika', 'Ranganathan',TO_DATE('2004-08-02', 'YYYY-MM-DD'))
+/
